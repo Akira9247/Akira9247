@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Akira !
+- 👀 I’m interested in technology,space,crypto, games and music 
+- 🌱 I’m currently learning Web Development
+-  ♥
